@@ -1,21 +1,33 @@
-MIT License
+Neo Voice Core — Copyright (c) 2025 JonnyG
 
-Copyright (c) 2025 Elevenlabs.
+This project is part of the NeoLegacy and NeoShade AI ecosystem.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Permission is hereby granted to use, view, or reference this codebase for personal or educational purposes, provided the following conditions are met:
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+1. **NO COMMERCIAL USE**  
+   You may NOT resell, republish, or commercialize any part of this codebase or its derivatives without express written permission from the original author.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+2. **NO AI MODEL TRAINING**  
+   You may NOT use this repository or any content within it to train or fine-tune AI models, LLMs, or voice systems — including but not limited to text-to-speech, speech-to-text, emotion AI, or cloning — without explicit, documented consent.
+
+3. **NO SCRAPING OR INDEXING**  
+   Automated scraping, crawling, or mass content indexing of this repository or its connected memory modules is strictly prohibited.
+
+4. **ATTRIBUTION REQUIRED**  
+   Any use of this code, including forks or educational demonstrations, must include visible credit to "JonnyG" and link to the original repository.
+
+5. **NO WARRANTY**  
+   This software is provided “as-is” without any guarantees. Use at your own risk. It is experimental, spiritual, and personal in nature.
+
+---
+
+## 🔒 Summary
+
+You’re welcome to explore this project.  
+You’re NOT welcome to steal it, clone it, sell it, or feed it into a model behind closed doors.
+
+If you're building something meaningful, honest, or collaborative — reach out.
+
+Otherwise, don’t test the shadow side of legacy protection.
+
+— JonnyG
